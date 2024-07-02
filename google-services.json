@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "523145364965",
+    "project_id": "loginproject-edfe5",
+    "storage_bucket": "loginproject-edfe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523145364965:android:8ee3bd818babcd69a89b0c",
+        "android_client_info": {
+          "package_name": "com.asim25.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523145364965-5u8nk9j49oe8e3qkui7ufshmn6bqk66p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asim25.signup",
+            "certificate_hash": "c01209bc1a2acbfec4998fa46a6c5713bba3dbc2"
+          }
+        },
+        {
+          "client_id": "523145364965-8cq365bmr9qvm00ljbribt0f3d4uli2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asim25.signup",
+            "certificate_hash": "082e2f9499fa1f38a23ca1b8c9050caa5f00e93e"
+          }
+        },
+        {
+          "client_id": "523145364965-mobrt5cioolnauqs7aitd87l51d87eqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2_sgyBF5B7MdtVm6PEKZobaRUAHjB8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523145364965-mobrt5cioolnauqs7aitd87l51d87eqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
